@@ -1,0 +1,8 @@
+body {
+    position: relative;
+}
+.svg {
+    position: absolute;
+    opacity: 0.1;
+    top: 78%;
+}
